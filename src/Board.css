@@ -1,0 +1,29 @@
+.Board {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    flex-direction:column;
+}
+
+.Square {
+    height: 50px;
+    width: 50px;
+    border: 1px solid black;
+    margin-right: -1px;
+    margin-bottom:-1px;
+    color:rebeccapurple;
+    font-weight: bold;
+}
+
+.board-row {
+    display:flex;
+}
+
+.status {
+    margin-bottom: 10px;
+}
+
+button:active {
+    border:none;
+}
