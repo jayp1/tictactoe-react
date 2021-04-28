@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/tictactoe-react/static/css/main.ec09a234.chunk.css",
+    "main.css": "/tictactoe-react/static/css/main.0cd519c9.chunk.css",
     "main.js": "/tictactoe-react/static/js/main.96519cf1.chunk.js",
     "main.js.map": "/tictactoe-react/static/js/main.96519cf1.chunk.js.map",
     "runtime-main.js": "/tictactoe-react/static/js/runtime-main.4ae42528.js",
@@ -10,13 +10,13 @@
     "static/js/3.7b57e8e6.chunk.js": "/tictactoe-react/static/js/3.7b57e8e6.chunk.js",
     "static/js/3.7b57e8e6.chunk.js.map": "/tictactoe-react/static/js/3.7b57e8e6.chunk.js.map",
     "index.html": "/tictactoe-react/index.html",
-    "static/css/main.ec09a234.chunk.css.map": "/tictactoe-react/static/css/main.ec09a234.chunk.css.map",
+    "static/css/main.0cd519c9.chunk.css.map": "/tictactoe-react/static/css/main.0cd519c9.chunk.css.map",
     "static/js/2.c869a5e4.chunk.js.LICENSE.txt": "/tictactoe-react/static/js/2.c869a5e4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.4ae42528.js",
     "static/js/2.c869a5e4.chunk.js",
-    "static/css/main.ec09a234.chunk.css",
+    "static/css/main.0cd519c9.chunk.css",
     "static/js/main.96519cf1.chunk.js"
   ]
 }
